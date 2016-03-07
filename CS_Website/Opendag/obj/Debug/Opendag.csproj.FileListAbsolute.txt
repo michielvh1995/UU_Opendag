@@ -1,0 +1,6 @@
+c:\users\michiel\documents\visual studio 2013\Projects\Opendag\Opendag\bin\Debug\Opendag.exe.config
+c:\users\michiel\documents\visual studio 2013\Projects\Opendag\Opendag\bin\Debug\Opendag.exe
+c:\users\michiel\documents\visual studio 2013\Projects\Opendag\Opendag\bin\Debug\Opendag.pdb
+c:\users\michiel\documents\visual studio 2013\Projects\Opendag\Opendag\obj\Debug\Opendag.csprojResolveAssemblyReference.cache
+c:\users\michiel\documents\visual studio 2013\Projects\Opendag\Opendag\obj\Debug\Opendag.exe
+c:\users\michiel\documents\visual studio 2013\Projects\Opendag\Opendag\obj\Debug\Opendag.pdb
